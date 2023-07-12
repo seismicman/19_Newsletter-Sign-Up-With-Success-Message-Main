@@ -22,9 +22,13 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ![](./src/assets/images/screenshot2.jpg)
 
+![](./src/assets/images/screenshot3.jpg)
+
+![](./src/assets/images/screenshot4.jpg)
+
 ### Links
 
-Solution URL: [https://seismicman.github.io/17_Ping-Coming-Soon-Page-Master/](https://seismicman.github.io/17_Ping-Coming-Soon-Page-Master/)
+Solution URL: [https://seismicman.github.io/19_Newsletter-Sign-Up-With-Success-Message-Main/](https://seismicman.github.io/19_Newsletter-Sign-Up-With-Success-Message-Main/)
 
 ## My process
 
